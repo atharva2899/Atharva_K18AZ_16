@@ -35,7 +35,13 @@ Explanation: – First p1 process is picked from the ready queue and executes fo
 
 Complexity:
 
-• Complexity of initialization of variables is O(1). total = 0 counter = 0 wait_time = 0 turnaround_time = 0 • Complexity for initializing arrays with for loop is O(limit). for(i = 0; i < limit; i++) { … } • Complexity of calculating waiting and turnaround time is O(limit). for(total = 0, i = 0; x != 0;) { …. } • Complexity of implemented algorithm is O(limit).
+• Complexity of initialization of variables is O(1). total = 0 counter = 0 wait_time = 0 turnaround_time = 0 
+
+• Complexity for initializing arrays with for loop is O(limit). for(i = 0; i < limit; i++) { … } 
+
+• Complexity of calculating waiting and turnaround time is O(limit). for(total = 0, i = 0; x != 0;) { …. } 
+
+• Complexity of implemented algorithm is O(limit).
 
 Constraints:
 
